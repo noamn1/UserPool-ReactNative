@@ -1,0 +1,12 @@
+{
+  "name": "userPool",
+  "displayName": "userPool",
+  "expo": {
+    "name": "userPool",
+    "slug": "userPool",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
